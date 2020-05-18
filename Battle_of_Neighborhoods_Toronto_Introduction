@@ -1,3 +1,15 @@
 Battle of Neighborhoods – Toronto
-Introduction/Business Problem:
-Toronto is the capital of Ontario and is the most populous city in Canada. Toronto is the most ethically diverse city in Canada thereby it has unique food culture. Toronto’s landscape is distinctly different than the rest of the country. There are various restaurants of local cuisine and many restaurants of various international cuisines such as Italian, Indian, Chinese, Mexican, Thai etc. According to the “The Canadian Restaurant Industry Landscape” there are more European menu type restaurants in Toronto than in the rest of Canada, making up 5.3 percent of the Toronto landscape, compared to 3.2 nationwide. According to the study 9.6 percent restaurants in Toronto are Asian, whereas Asian restaurants only account for 6.6 percent nationwide. One of the USA’s favorite menu type ‘hamburger,’ does not have as strong of a presence in Canada and is even less predominant is Toronto. As a nation, approximately 6.1 percent of Canadian restaurants serve a ‘hamburger’ menu type. o we can say Toronto is the best place for foodies. So in this project I will be analyzing the Toronto data to find the most commonly visited restaurant in Toronto.
+Introduction:
+Toronto is the capital of Ontario and is the most populous city in Canada. Toronto is the most ethically diverse city in Canada thereby it has unique food culture. Toronto’s landscape is distinctly different than the rest of the country. There are various restaurants of local cuisine and many restaurants of various international cuisines such as Italian, Indian, Chinese, Mexican, Thai etc. According to the “The Canadian Restaurant Industry Landscape” there are more European menu type restaurants in Toronto than in the rest of Canada, making up 5.3 percent of the Toronto landscape, compared to 3.2 nationwide. According to the study 9.6 percent restaurants in Toronto are Asian, whereas Asian restaurants only account for 6.6 percent nationwide. One of the USA’s favorite menu type ‘hamburger,’ does not have as strong of a presence in Canada and is even less predominant is Toronto. As a nation, approximately 6.1 percent of Canadian restaurants serve a ‘hamburger’ menu type. So we can say Toronto is the best place for foodies.
+
+Problem description:
+ Lets say I travel to different places in Toronto and it is very difficult to me to identify the best restaurants in that area. In these situations, we need to find the right place to eat with reasonable cost. So the possible analysis can be done on these:
+1.	Which is the most nearest restaurant?
+2.	Which is the most visited restaurant?
+3.	What is the most famous cuisine in that area?
+
+So in this project I will be analyzing the Toronto data to find the solutions of the above problem statements.
+
+Target Audience:
+A visitor who wants to find the best restaurant nearby 
+
